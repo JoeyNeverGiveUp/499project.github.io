@@ -13,12 +13,12 @@ var visual = {
     gbc:"v/gbc.png",
     mbc:"v/mbc.png",
     sbc:"v/sbc.png",
-    sca:"../test/v/sca.png",
-    scm:"../test/v/scm.png",
-    sco:"../test/v/sco.png",
-    scs:"../test/v/scs.png",
-    ssd:"../test/v/ssd.png",
-    gba:"../test/v/gba.png"
+    sca:"v/sca.png",
+    scm:"v/scm.png",
+    sco:"v/sco.png",
+    scs:"v/scs.png",
+    ssd:"v/ssd.png",
+    gba:"v/gba.png"
 };
 
 document.getElementById("degreePlanForm").addEventListener("submit", function(event) {
