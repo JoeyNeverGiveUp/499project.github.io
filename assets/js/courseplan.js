@@ -10,9 +10,9 @@ var plans = {
     gba:"../test/assets/py/Degree-plans-9/gba.txt"
 };
 var visual = {
-    gbc:"../test/v/gbc.png",
-    mbc:"../test/v/mbc.png",
-    sbc:"../test/v/sbc.png",
+    gbc:"v/gbc.png",
+    mbc:"v/mbc.png",
+    sbc:"v/sbc.png",
     sca:"../test/v/sca.png",
     scm:"../test/v/scm.png",
     sco:"../test/v/sco.png",
